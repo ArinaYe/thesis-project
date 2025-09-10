@@ -1,2 +1,2 @@
 # thesis-project
-language shift in simulating language shift
+using reinforcement learning in simulating language shift
